@@ -1,7 +1,7 @@
-# Sandbox Framework
+# Sandbox-Framework
 
-> A sandbox project framework. (Main framework document coming soon.)
+> A sandbox project framework. Main framework document coming soon.
 
 ## Working Documents
 
-- [ISM Obsession](https://raw.githubusercontent.com/user7075/-sandbox-framework/refs/heads/main/ism-obsession.md): Test document   
+- [ISM Obsession](https://raw.githubusercontent.com/user7075/sandbox-framework/refs/heads/main/ism-obsession.md): Test document   
