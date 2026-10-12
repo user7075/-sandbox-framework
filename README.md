@@ -1,3 +1,3 @@
 # Sandbox-Framework
 
- framework of a sandbox project
+A sandbox project framework. Main framework document coming soon.
